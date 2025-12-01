@@ -138,7 +138,7 @@ Execute the program using runserver command.
 </html>
 
 ## OUTPUT
-```
+
 c:\Users\acer\Pictures\EXP2.png
 ```
 
