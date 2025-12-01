@@ -33,8 +33,8 @@ Execute the program using runserver command.
 <body>
 
 <h2>Slot Time Table – ASWINI D(25018420)</h2>
-3
-.
+
+
 <table border="1" cellpadding="8">
     <tr>
         <th>Time</th>
@@ -121,7 +121,6 @@ Execute the program using runserver command.
         <td>19CY205</td>
         <td>Principles of Chemistry in Engineering (CHE)</td>
     </tr>
-git
     <tr>
         <td>5</td>
         <td>19MA201</td>
@@ -139,7 +138,9 @@ git
 </html>
 
 ## OUTPUT
-
+```
+c:\Users\acer\Pictures\EXP2.png
+```
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
