@@ -25,7 +25,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -33,8 +33,7 @@ Execute the program using runserver command.
 </head>
 <body>
 
-<h2>Slot Time Table – ASWINI D(25018420)</h2>
-
+<h2>Slot Time Table – ASWINI D (25018420)</h2>
 
 <table border="1" cellpadding="8">
     <tr>
@@ -46,7 +45,7 @@ Execute the program using runserver command.
         <th>Friday</th>
     </tr>
 
- <tr>
+<tr>
         <td>8–10</td>
         <td>FREE SLOT</td>
         <td>FREE SLOT</td>
@@ -55,14 +54,14 @@ Execute the program using runserver command.
         <td>CHE</td>
     </tr>
 
- <tr>
+<tr>
         <td>10–12</td>
         <td>GER</td>
         <td>FREE SLOT</td>
         <td>FWAD</td>
         <td>FWAD</td>
         <td>PHY</td>
-    </tr>
+</tr>
 
 <tr>
         <td>12–1</td>
@@ -78,7 +77,7 @@ Execute the program using runserver command.
         <td>SS</td>
     </tr>
 
- <tr>
+<tr>
         <td>3–5</td>
         <td>FREE SLOT</td>
         <td>GER</td>
@@ -117,12 +116,13 @@ Execute the program using runserver command.
         <td>Physics for Information Technology (PHY)</td>
     </tr>
 
- <tr>
+<tr>
         <td>4</td>
         <td>19CY205</td>
         <td>Principles of Chemistry in Engineering (CHE)</td>
     </tr>
-    <tr>
+
+<tr>
         <td>5</td>
         <td>19MA201</td>
         <td>Calculus and Matrix Algebra (MAT)</td>
@@ -137,7 +137,7 @@ Execute the program using runserver command.
 
 </body>
 </html>
-
+```
 ## OUTPUT
 ``
 <img width="1246" height="955" alt="EXP2" src="https://github.com/user-attachments/assets/cfb4bdac-fdc4-49da-a659-060ac43d5c8d" />
