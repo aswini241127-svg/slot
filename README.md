@@ -49,7 +49,7 @@ Execute the program using runserver command.
         <td>8–10</td>
         <td>FREE SLOT</td>
         <td>FREE SLOT</td>
-        <td>–</td>
+        <td>MAT</td>
         <td>PHY</td>
         <td>CHE</td>
     </tr>
@@ -65,14 +65,18 @@ Execute the program using runserver command.
 
 <tr>
         <td>12–1</td>
-        <td colspan="5" align="center">LUNCH</td>
+        <td>SS</td>
+        <td>FREE SLOT</td>
+        <td>FWAD</td>
+        <td>FWAD</td>
+        <td>MAT</td>
     </tr>
 
 <tr>
         <td>1–3</td>
-        <td>FREE SLOT</td>
+        <td>PHY</td>
         <td>MAT</td>
-        <td>–</td>
+        <td>FREE SLOT</td>
         <td>MAT</td>
         <td>SS</td>
     </tr>
@@ -81,8 +85,8 @@ Execute the program using runserver command.
         <td>3–5</td>
         <td>FREE SLOT</td>
         <td>GER</td>
-        <td>–</td>
-        <td>CHE</td>
+        <td>MAT</td>
+        <td>SS</td>
         <td>FWAD</td>
     </tr>
 </table>
