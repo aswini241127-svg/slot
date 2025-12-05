@@ -73,7 +73,7 @@ Execute the program using runserver command.
   <center> 
     <img src="/static/logo.png" height="100px" width="540">
   </center>
-  <h3>SLOT TIME TABLE-ASWINI (25018420)</h3>
+  <h3>SLOT TIME TABLE-ASWINI D (25018420)</h3>
 
   <table>
     <tr>
